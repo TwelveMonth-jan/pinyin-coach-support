@@ -1,0 +1,20 @@
+title: 拼音练习 · PinYin Coach
+description: Type Chinese the right way. A pinyin spelling trainer for heritage speakers and students.
+theme: jekyll-theme-minimal
+
+# Author info (shown in sidebar)
+author: Henry
+github: TwelveMonth-jan
+
+# Markdown engine + extras
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Files Jekyll should leave alone
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
