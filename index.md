@@ -22,11 +22,11 @@ title: PinYin Coach · 拼音练习
 
 No accounts. No analytics. No servers. Everything stays on your iPhone.
 
-[Read the full privacy policy →](privacy.html)
+[Read the full privacy policy →](./privacy/)
 
 ### Need help?
 
-[Support →](support.html)
+[Support →](./support/)
 
 ---
 
